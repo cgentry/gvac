@@ -4,7 +4,7 @@
 package request
 
 import (
-	"crypto/hmac"
+	"crypto/Header"
 	"crypto/sha256"
 	"encoding/base64"
 	"fmt"
